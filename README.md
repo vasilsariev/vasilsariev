@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Vasil Sariev</h1>
-<h3 align="center">Java developer</h3>
+<h3 align="center">Software engineer</h3>
 
 - I’m currently learning **Spring**
 
