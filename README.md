@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Vasil Sariev</h1>
 <h3 align="center">Software engineer</h3>
 
-- I’m currently learning **Spring**
+- I’m currently learning **Solidity**
 
 - 📫 Reach me on  **vasil.sariev12@gmail.com**
 
